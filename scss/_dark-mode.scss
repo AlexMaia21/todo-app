@@ -1,0 +1,15 @@
+body.class-dark-mode {
+    background: url('../images/bg-desktop-dark.jpg') no-repeat
+                $VeryDarkBlue;
+    transition: all .5s ease-in-out;
+    // color: $VeryLightGray;
+    color: $VeryLightGrayishBlue;
+    .container__create-new-todo, .container__todos, .todos__todo, .container__controls, .controls__filters {
+        background: $VeryDarkDesaturatedBlue;
+    }
+    .container__input-create-todo--create{color: $VeryLightGrayishBlue};
+    .icon-moon {display: none;}
+    .icon-sun {display: block;}
+    .todos__todo {border-bottom: 1px solid $VeryDarkGrayishBlue;}
+    .todos__checkbox--check {border: 1px solid $VeryDarkGrayishBlue;}
+}
