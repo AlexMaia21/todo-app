@@ -6,7 +6,7 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
 
 ### Screenshot
 
-![](./images/screenshot.jpg)
+![](./images/screenshot.png)
 
 ## My process
 
@@ -15,7 +15,7 @@ This is a solution to the [Todo app challenge on Frontend Mentor](https://www.fr
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- - [SASS](https://sass-lang.com/) - SASS Pré processor
+- [SASS](https://sass-lang.com/) - SASS Pré processor
 
 ## Author
 
